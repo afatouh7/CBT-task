@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pcc\\source\\repos\\CBT-tech-Task\\CBT-Task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{115B6D6C-312D-4F96-811E-6CEF458EAEE5}|CBT-Task\\CBT-Task.csproj|c:\\users\\pcc\\source\\repos\\cbt-tech-task\\cbt-task\\cbt-task\\migrations\\20250219080817_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{115B6D6C-312D-4F96-811E-6CEF458EAEE5}|CBT-Task\\CBT-Task.csproj|solutionrelative:cbt-task\\migrations\\20250219080817_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{115B6D6C-312D-4F96-811E-6CEF458EAEE5}|CBT-Task\\CBT-Task.csproj|c:\\users\\pcc\\source\\repos\\cbt-tech-task\\cbt-task\\cbt-task\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{115B6D6C-312D-4F96-811E-6CEF458EAEE5}|CBT-Task\\CBT-Task.csproj|solutionrelative:cbt-task\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{115B6D6C-312D-4F96-811E-6CEF458EAEE5}|CBT-Task\\CBT-Task.csproj|c:\\users\\pcc\\source\\repos\\cbt-tech-task\\cbt-task\\cbt-task\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{115B6D6C-312D-4F96-811E-6CEF458EAEE5}|CBT-Task\\CBT-Task.csproj|solutionrelative:cbt-task\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{115B6D6C-312D-4F96-811E-6CEF458EAEE5}|CBT-Task\\CBT-Task.csproj|c:\\users\\pcc\\source\\repos\\cbt-tech-task\\cbt-task\\cbt-task\\models\\migratemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{115B6D6C-312D-4F96-811E-6CEF458EAEE5}|CBT-Task\\CBT-Task.csproj|solutionrelative:cbt-task\\models\\migratemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{115B6D6C-312D-4F96-811E-6CEF458EAEE5}|CBT-Task\\CBT-Task.csproj|c:\\users\\pcc\\source\\repos\\cbt-tech-task\\cbt-task\\cbt-task\\models\\otpverificationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{115B6D6C-312D-4F96-811E-6CEF458EAEE5}|CBT-Task\\CBT-Task.csproj|solutionrelative:cbt-task\\models\\otpverificationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{115B6D6C-312D-4F96-811E-6CEF458EAEE5}|CBT-Task\\CBT-Task.csproj|c:\\users\\pcc\\source\\repos\\cbt-tech-task\\cbt-task\\cbt-task\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{115B6D6C-312D-4F96-811E-6CEF458EAEE5}|CBT-Task\\CBT-Task.csproj|solutionrelative:cbt-task\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{115B6D6C-312D-4F96-811E-6CEF458EAEE5}|CBT-Task\\CBT-Task.csproj|c:\\users\\pcc\\source\\repos\\cbt-tech-task\\cbt-task\\cbt-task\\models\\migrationrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{115B6D6C-312D-4F96-811E-6CEF458EAEE5}|CBT-Task\\CBT-Task.csproj|solutionrelative:cbt-task\\models\\migrationrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{115B6D6C-312D-4F96-811E-6CEF458EAEE5}|CBT-Task\\CBT-Task.csproj|c:\\users\\pcc\\source\\repos\\cbt-tech-task\\cbt-task\\cbt-task\\models\\otp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{115B6D6C-312D-4F96-811E-6CEF458EAEE5}|CBT-Task\\CBT-Task.csproj|solutionrelative:cbt-task\\models\\otp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{115B6D6C-312D-4F96-811E-6CEF458EAEE5}|CBT-Task\\CBT-Task.csproj|c:\\users\\pcc\\source\\repos\\cbt-tech-task\\cbt-task\\cbt-task\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{115B6D6C-312D-4F96-811E-6CEF458EAEE5}|CBT-Task\\CBT-Task.csproj|solutionrelative:cbt-task\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{115B6D6C-312D-4F96-811E-6CEF458EAEE5}|CBT-Task\\CBT-Task.csproj|c:\\users\\pcc\\source\\repos\\cbt-tech-task\\cbt-task\\cbt-task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{115B6D6C-312D-4F96-811E-6CEF458EAEE5}|CBT-Task\\CBT-Task.csproj|solutionrelative:cbt-task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{115B6D6C-312D-4F96-811E-6CEF458EAEE5}|CBT-Task\\CBT-Task.csproj|c:\\users\\pcc\\source\\repos\\cbt-tech-task\\cbt-task\\cbt-task\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{115B6D6C-312D-4F96-811E-6CEF458EAEE5}|CBT-Task\\CBT-Task.csproj|solutionrelative:cbt-task\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250219080817_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\pcc\\source\\repos\\CBT-tech-Task\\CBT-Task\\CBT-Task\\Migrations\\20250219080817_InitialCreate.cs",
+              "RelativeDocumentMoniker": "CBT-Task\\Migrations\\20250219080817_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\pcc\\source\\repos\\CBT-tech-Task\\CBT-Task\\CBT-Task\\Migrations\\20250219080817_InitialCreate.cs",
+              "RelativeToolTip": "CBT-Task\\Migrations\\20250219080817_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T08:08:18.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MigrateModel.cs",
+              "DocumentMoniker": "C:\\Users\\pcc\\source\\repos\\CBT-tech-Task\\CBT-Task\\CBT-Task\\Models\\MigrateModel.cs",
+              "RelativeDocumentMoniker": "CBT-Task\\Models\\MigrateModel.cs",
+              "ToolTip": "C:\\Users\\pcc\\source\\repos\\CBT-tech-Task\\CBT-Task\\CBT-Task\\Models\\MigrateModel.cs",
+              "RelativeToolTip": "CBT-Task\\Models\\MigrateModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T08:01:49.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OtpVerificationModel.cs",
+              "DocumentMoniker": "C:\\Users\\pcc\\source\\repos\\CBT-tech-Task\\CBT-Task\\CBT-Task\\Models\\OtpVerificationModel.cs",
+              "RelativeDocumentMoniker": "CBT-Task\\Models\\OtpVerificationModel.cs",
+              "ToolTip": "C:\\Users\\pcc\\source\\repos\\CBT-tech-Task\\CBT-Task\\CBT-Task\\Models\\OtpVerificationModel.cs",
+              "RelativeToolTip": "CBT-Task\\Models\\OtpVerificationModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T08:01:31.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "C:\\Users\\pcc\\source\\repos\\CBT-tech-Task\\CBT-Task\\CBT-Task\\Models\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "CBT-Task\\Models\\RegisterModel.cs",
+              "ToolTip": "C:\\Users\\pcc\\source\\repos\\CBT-tech-Task\\CBT-Task\\CBT-Task\\Models\\RegisterModel.cs",
+              "RelativeToolTip": "CBT-Task\\Models\\RegisterModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T08:01:15.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MigrationRecord.cs",
+              "DocumentMoniker": "C:\\Users\\pcc\\source\\repos\\CBT-tech-Task\\CBT-Task\\CBT-Task\\Models\\MigrationRecord.cs",
+              "RelativeDocumentMoniker": "CBT-Task\\Models\\MigrationRecord.cs",
+              "ToolTip": "C:\\Users\\pcc\\source\\repos\\CBT-tech-Task\\CBT-Task\\CBT-Task\\Models\\MigrationRecord.cs",
+              "RelativeToolTip": "CBT-Task\\Models\\MigrationRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T08:00:56.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Otp.cs",
+              "DocumentMoniker": "C:\\Users\\pcc\\source\\repos\\CBT-tech-Task\\CBT-Task\\CBT-Task\\Models\\Otp.cs",
+              "RelativeDocumentMoniker": "CBT-Task\\Models\\Otp.cs",
+              "ToolTip": "C:\\Users\\pcc\\source\\repos\\CBT-tech-Task\\CBT-Task\\CBT-Task\\Models\\Otp.cs",
+              "RelativeToolTip": "CBT-Task\\Models\\Otp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T08:00:33.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\pcc\\source\\repos\\CBT-tech-Task\\CBT-Task\\CBT-Task\\Models\\User.cs",
+              "RelativeDocumentMoniker": "CBT-Task\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\pcc\\source\\repos\\CBT-tech-Task\\CBT-Task\\CBT-Task\\Models\\User.cs",
+              "RelativeToolTip": "CBT-Task\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T08:00:10.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\pcc\\source\\repos\\CBT-tech-Task\\CBT-Task\\CBT-Task\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CBT-Task\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\pcc\\source\\repos\\CBT-tech-Task\\CBT-Task\\CBT-Task\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "CBT-Task\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T07:41:24.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\pcc\\source\\repos\\CBT-tech-Task\\CBT-Task\\CBT-Task\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "CBT-Task\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\pcc\\source\\repos\\CBT-tech-Task\\CBT-Task\\CBT-Task\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "CBT-Task\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAEwKQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T08:03:29.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pcc\\source\\repos\\CBT-tech-Task\\CBT-Task\\CBT-Task\\Program.cs",
+              "RelativeDocumentMoniker": "CBT-Task\\Program.cs",
+              "ToolTip": "C:\\Users\\pcc\\source\\repos\\CBT-tech-Task\\CBT-Task\\CBT-Task\\Program.cs",
+              "RelativeToolTip": "CBT-Task\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T07:33:30.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\pcc\\source\\repos\\CBT-tech-Task\\CBT-Task\\CBT-Task\\appsettings.json",
+              "RelativeDocumentMoniker": "CBT-Task\\appsettings.json",
+              "ToolTip": "C:\\Users\\pcc\\source\\repos\\CBT-tech-Task\\CBT-Task\\CBT-Task\\appsettings.json",
+              "RelativeToolTip": "CBT-Task\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-19T07:31:16.459Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
